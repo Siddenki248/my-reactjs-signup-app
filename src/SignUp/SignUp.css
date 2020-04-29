@@ -1,0 +1,26 @@
+
+.container{
+    font-size: 18px;
+    margin: 0 auto;
+}
+.buttonStyle{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 80px;
+    padding: px;
+    font-size: 15px;
+    border:1px solid white;
+}
+.buttonStyle:hover{
+    background-color: turquoise;
+    color: blue;
+}
+input{
+    border: 1px solid gray;
+    height: 20px;
+    width: 150px;
+}
+.spacer{
+    margin: 10px 0px;
+}
